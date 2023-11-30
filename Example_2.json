@@ -1,0 +1,16 @@
+{
+    "person" : [
+        {
+            "Name" : "Bwn Bsty",
+            "Age" : 21
+        },
+        {
+            "Name" : "Elon Musk",
+            "Age" : 48
+        },
+        {
+            "Name" : "Bill Gate",
+            "Age" : 54
+        }
+    ]
+}

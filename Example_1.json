@@ -1,0 +1,14 @@
+{
+    "Name" : "Biswanath",
+    "Age" : 21,
+    "is_student" : true,
+    "passport_num" : null,
+    "pro_lang" : ["javascript","c","python","java","c++"],
+    "address" : {
+        "town" : "kokrajhar",
+        "state": "assam",
+        "country":"india",
+        "pin" : 783346
+    }
+}
+
